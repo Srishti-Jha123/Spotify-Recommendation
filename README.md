@@ -1,6 +1,8 @@
 "A Streamlit app that recommends songs using K-Means clustering."
 
-🎵 Spotify Music Recommendation App
+**🎵 Spotify Music Recommendation App
+**
+
 This is a Streamlit-based web app that clusters Spotify songs using machine learning and provides music recommendations based on audio features like valence, energy, tempo, and more.
 
 🔍 Features
